@@ -1,0 +1,5 @@
+# get the imput from the user, and if the animal is equal to a "chicken"
+# then the display( print "that is my favorite animal")
+# end
+
+animal = input ("what animal are you")
